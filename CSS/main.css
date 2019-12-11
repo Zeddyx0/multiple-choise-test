@@ -1,0 +1,43 @@
+body{	
+}
+header {
+	font-size: 50px;
+	text-align: left;
+	background-color: lightblue;
+}
+/*sets navigation panel*/
+.rNav {
+	float: left !important;
+	text-align: left/**/;
+	width: 10%;
+}
+/*sets the main content of the page*/
+.rightContent {
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: left;
+	float: left;
+	width: 50%;
+	
+}
+/*clears the space below the main content*/
+.clear {
+	clear: both;
+}
+/*sets the whole page*/
+.fullPage {
+	margin-top: 20px;
+	width:100%;
+	
+}
+
+button {
+	float: center !important;
+}
+.que{
+	font-size: 20px;
+	font-weight: bold;
+}
+.ans{
+	font-size: 15px;
+}
